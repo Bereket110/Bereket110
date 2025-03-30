@@ -6,10 +6,10 @@
 - <b>Backend Skills: Node.js,Express, MySQL</b>
 - <b>Other Skills: Git, GitHub, Bash Scripting,</b>
 <h2>Projects</h2>
-- <b>Apple.com clone</b>
-- <b>🎮Snake Game– A fun JavaScript-based game.</b>
-- <b>🧮Calculator – A functional web-based calculator.</b>
-- <b>Apple.com clone</b>
+- <b>✨Apple.com clone</b><br/>
+- <b>🎮Snake Game– A fun JavaScript-based game.</b><br/>
+- <b>🧮Calculator – A functional web-based calculator.</b><br/>
+- <b>✨Responsive puppy-page</b><br/>
 
 
 
