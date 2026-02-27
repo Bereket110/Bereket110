@@ -3,7 +3,7 @@
 <h2>👨‍💻 About Me:</h2>
 
 - <a href="https://dev-bereket-yakob.vercel.app/"> Visit my Portfolio Website </a>
-- <b>Web Developer: HTML, CSS, Bootstrap, JavaScript, React, Node.js</b>
+- <b>Frontend Skills: HTML, CSS, Tailwind css, Bootstrap, JavaScript, React</b>
 - <b>Backend Skills: Node.js,Express, MySQL</b>
 - <b>Other Skills: Git, GitHub, Bash Scripting,</b>
 <h2>Projects</h2>
