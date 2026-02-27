@@ -8,6 +8,9 @@
 - <b>Other Skills: Git, GitHub, Bash Scripting,</b>
 <h2>Projects</h2>
 - <b>✨Apple.com clone</b><br/>
+- <b>✨Authentication System</b><br/>
+- <b>✨Blogging platform</b><br/>
+- <b>✨Food Delivery System</b><br/>
 - <b>✨Netflix.com clone</b><br/>
 - <b>✨YouTub.com clone</b><br/>
 - <b>🎮Snake Game– A fun JavaScript-based game.</b><br/>
